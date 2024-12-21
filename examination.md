@@ -72,7 +72,7 @@ I allmänhet vill man att tasks i sprintbackloggen skall vara av en sådan storl
 Någon gång under arbetet med sprintbackloggen formuleras sprintmålet, som är en kort beskrivning av vad man vill åstadkomma under den kommande sprinten.
 
 ### Arbetssätt
-* Använd Trello för att hålla ordning på era arbetsuppgifter
+* Använd Trello eller Github Projects för att hålla ordning på era arbetsuppgifter
 * Använd GitHub för allt. GitHub hanterar inte bara källkod, utan alla andra dokument. När man har allt på en plats underlättas arbetet.
 * Starta en projektdagbok med en gång. Den kan vara privat eller gemensam för projektet. Här noterar ni saker av betydelse i projektet – problem, beslut, diskussioner. Formen är inte så viktig (det går alltid att ändra senare)
 
