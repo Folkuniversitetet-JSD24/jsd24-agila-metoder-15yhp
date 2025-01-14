@@ -14,7 +14,7 @@ Under projektet kommer jag (Mandus) agera som beställaren.
 
 ### Arbetsmetodik
 
-Eftersom det är kort tid på detta projekt och ni vill kunna vara flexibla och hantera förändringar så är det bestämt att ni kommer göra en variant av Kanban.
+Eftersom det är kort tid på detta projekt och ni vill kunna vara flexibla och hantera förändringar så är det bestämt att ni kommer jobba agilt och med Scrum metodiken.
 
 Ni ska skapa en trellotavla med ett flöde (ex. kolumner för to do, in progress, review, done) som ni ska använda er av. Alla kort som jobbas på måste vara tilldelad en person i gruppen.
 
@@ -29,7 +29,7 @@ Dokumentera ner era reflektioner och skicka med i er inlämning.
 
 En user story innehåller:
   * Är skriven enligt format: Som [roll] vill jag [mål] så jag kan [behov]
-  * Alla stories är estimerade/poängsatta (här kan ni tänka en 1 poäng / 1 arbetsdag)
+  * Alla stories är estimerade/poängsatta
   * En kortare beskrivning av vad som ska göras
   * Ett eller flera acceptanskriterier
 
@@ -51,6 +51,6 @@ Inlämning av uppgiften görs på Azomo senast 2025-01-23 klockan 23:59. Lägg a
 **För Väl Godkänt krävs**
 * En **individuell** reflektion (300 - 500 ord). (Som mejlas till mig på mandus.lindstrom@zocom.se)
   * Reflektera över gruppens arbete
-  * Reflektera över hur ni skulle kunna arbeta ifall ni haft längre tid och arbetat utifrån Scrum?
+  * Reflektera över hur ni skulle kunna arbeta ifall ni haft längre tid?
   * Utvärdera över din egen insats, vad gjorde du bra och mindre bra?
   * Vad har du lärt dig till nästa grupparbete?
