@@ -51,7 +51,6 @@ Eftersom det är kort tid på detta projekt och ni vill kunna vara flexibla och 
 ### Inlämning
 
 Inlämning av uppgiften görs på Azomo senast 2025-01-23 klockan 23:59. Lägg alla länkar i ett Github-repo (Trello, wireframes, flödesdiagram, retro dokumentation) i er README. Döp repot enligt (gruppnamn)-agil-examination.
-Lägg alla länkar i ett GitHub-repo (Trello, wireframes, flödesdiagram) i er README. Döp repot enligt (gruppnamn)-agil-examination.
 
 ### Bedömning
 **För Godkänt krävs**
